@@ -8,3 +8,5 @@ edition = "2018"
 
 [dependencies]
 curl = "0.4.34"
+serde = "1.0.117"
+serde_json = "1.0.59"

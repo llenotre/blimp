@@ -1,3 +1,5 @@
+mod mirror;
+
 const VERSION: &str = "1.0";
 
 fn print_help() -> i32 {
